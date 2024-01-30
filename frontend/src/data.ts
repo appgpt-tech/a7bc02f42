@@ -1,0 +1,3 @@
+
+let data: any = {"defaultData":{"Books":[{"Title":"To Kill a Mockingbird","Author":"Harper Lee","Genre":"Southern Gothic, Legal Thriller","BookCover":"MockingbirdCover.png"},{"Title":"1984","Author":"George Orwell","Genre":"Dystopian, Political Fiction, Social Science Fiction","BookCover":"1984Cover.png"},{"Title":"Pride and Prejudice","Author":"Jane Austen","Genre":"Classic, Regency Romance","BookCover":"PrideAndPrejudiceCover.png"}],"Authors":[{"Name":"Harper Lee","Books":["To Kill a Mockingbird"]},{"Name":"George Orwell","Books":["1984"]},{"Name":"Jane Austen","Books":["Pride and Prejudice"]}],"Genres":[{"Category":"Southern Gothic"},{"Category":"Legal Thriller"},{"Category":"Dystopian"}]}};
+export default data;
